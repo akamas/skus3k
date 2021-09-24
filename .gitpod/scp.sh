@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sshpass -p 'root' scp -o StrictHostKeychecking=no -P 2222 $@
+sshpass -p 'root' scp -o StrictHostKeychecking=no -P 2233 $@
